@@ -2,7 +2,7 @@
 
 int main(void){
 
-float x = 8.123456789;
+float x = 10.9873621;
 printf("%-8.1e\n",x);
 printf("%10.6e\n",x);
 printf("%-8.3f\n",x);
